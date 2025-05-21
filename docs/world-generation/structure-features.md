@@ -5,7 +5,7 @@ mentions:
     - DerpMcaddon
     - SirLich
 tags:
-    - experimental
+
 description: Add your structure to world generation.
 ---
 
